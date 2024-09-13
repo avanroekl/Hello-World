@@ -6,10 +6,10 @@
 2. Next
 3. End
 #### Files Used
+- **Click on the link to take you to the file**
 - First
 - Second
 - Third
-**click on the link to take you to the file**
 ---
 ##### Additional Documentation
 ###### Versioning
