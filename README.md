@@ -10,6 +10,5 @@
 - Second
 - Third 
 ---
-##### Additional Documentation
-**Here is my additional documentation**
-###### Versioning
+**Additional documentation**
+##### Versioning
