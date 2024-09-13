@@ -8,8 +8,8 @@
 #### Files Used
 - First
 - Second
-- Third 
+- Third
+**click on the link to take you to the file**
 ---
-**Additional documentation**
-Additional documentation is listed here
-##### Versioning
+##### Additional Documentation
+###### Versioning
