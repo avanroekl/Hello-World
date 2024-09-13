@@ -4,7 +4,7 @@
 **Files Used**
 - First
 - Second
-- Third
+- Third 
 ---
 > Additional Documentation
 > Versioning
